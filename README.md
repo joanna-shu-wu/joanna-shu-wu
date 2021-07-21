@@ -10,7 +10,7 @@ Reach me out!
 
 - 🔭 I’m currently working at a laser manufacturing company
 - 📫 How to reach me: joannawu0624@gmail.com.
-- 😄 Fun fact: I play piano.
+- 😄 Hobby: playing piano, training dogs.
 
 #### Top Technologies
 
