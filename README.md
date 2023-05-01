@@ -8,7 +8,7 @@ Reach me out!
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at a laser manufacturing company
+- 🔭 I’m a data engineering at a SaaS company
 - 📫 How to reach me: joannawu0624@gmail.com.
 - 😄 Hobby: playing piano, training dogs.
 
