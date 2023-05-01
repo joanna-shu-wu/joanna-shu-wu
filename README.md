@@ -21,10 +21,6 @@ Reach me out!
 
 
 
-#### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jwu0737.jwu0737)
-
-
 <!-- #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=jwu0737&count_private=true&theme=tokyonight&hide=contribs,prs) -->
